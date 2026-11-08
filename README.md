@@ -1,7 +1,9 @@
 # "Projeto" do Curso
 
-##Introducao
+## Introducao
 
-##Proposito
+## Proposito
 
-##Como Contribuir
+## Lancamento
+
+## Como Contribuir
