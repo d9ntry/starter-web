@@ -1,7 +1,7 @@
-# Starter Web Repo
+# "Projeto" do Curso
 
-This repository is for showing how Git and GitHub work
+##Introducao
 
-## Purpose
+##Proposito
 
-Sample website with plenty of files for demos
+##Como Contribuir
